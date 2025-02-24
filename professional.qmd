@@ -1,0 +1,44 @@
+---
+title: "Professional Resume"
+output: pdf_document
+format: html
+---
+
+### Amanpreet Kaur
+**Email:** amanpreetk713@gmail.com
+**GitHub:** github.com/amanpreetkaur713
+
+### Education
+**Bachelor of Arts in Criminology**, The University of Texas at Dallas, December 2023
+
+**Master of Science in Social Data Analytics & Research**, The University of Texas at Dallas, Anticipated December 2026
+
+### Skills
+- **Applications:** Microsoft Access, Word, Excel, Powerpoint, Outlook
+- **Languages:** Fluent in English, Hindi, and Punjabi
+- **Additional skills:** CJIS certified, data entry, detail oriented, effective oral and written communication, positive relationship building, team oriented, problem solve
+
+### Professional Experience
+**Police Strategies LLC - WA**: Read and analyze use-of-force police reports written by police officers, Enter the analyzed information into a database, Identify patterns and trends for the Police Force Analysis System
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
